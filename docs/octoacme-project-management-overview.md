@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UI/UX Designer: creates user-centered designs and ensures usability.
+- Site Reliability Engineer (SRE): ensures system reliability and operational excellence.
+- Data Analyst: provides insights and metrics to inform decisions.
+- Customer Success Manager: represents customer voice and ensures adoption.
+- Compliance Lead: guides compliance with regulatory requirements.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions and interaction patterns, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +51,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Refer to the [Cross-Role Collaboration Guide](octoacme-cross-role-collaboration-guide.md) for handoff patterns and communication best practices.
+- Use the [Handoff Checklist Template](octoacme-handoff-checklist-template.md) to ensure smooth transitions between roles and phases.
